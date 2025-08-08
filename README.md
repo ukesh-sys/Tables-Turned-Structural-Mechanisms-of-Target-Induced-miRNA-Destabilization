@@ -3,6 +3,7 @@
 This repository contains all relevant scripts, input files, and instructions used in the analyses and simulations presented in the manuscript:
 
 **_Tables Turned: Structural Mechanisms of Target-Induced miRNA Destabilization_**
+Available at: https://pubs.acs.org/doi/full/10.1021/acs.jpcb.5c01093
 
 ## 📄 Summary
 
